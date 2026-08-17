@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a Robot Folkrace project called “Spriny.”<br>I’m looking to collaborate on rover and rocket electronics and design.<br>I’m looking for help with using and programming CNC machines.<br>I’m currently learning PCB design.<br>💬 Ask me about robotics design and programming.<br>Fun fact: I’ve won 5 gold medals in the Latvian Robotics Championship.
+I’m currently working on a Robot Folkrace system project called “Android”<br>I’m looking to collaborate on rover and rocket electronics and design.<br>I’m looking for help with using and programming CNC machines.<br>I’m currently learning PCB design.<br>💬 Ask me about robotics design and programming.<br>Fun fact: I’ve won 5 gold medals in the Latvian Robotics Championship.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I’m currently working on a Robot Folkrace project called “Spriny.”<br>I’
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Linards888&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Linards888&icon=0&color=0)](https://visitcount.itsvg.in)
