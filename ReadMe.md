@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a Robot Folkrace system project called “Android”<br>I’m looking to collaborate on rover and rocket electronics and design.<br>I’m looking for help with using and programming CNC machines.<br>I’m currently learning PCB design.<br>💬 Ask me about robotics design and programming.<br>Fun fact: I’ve won 5 gold medals in the Latvian Robotics Championship.
+I’m currently working on a Robot Folkrace system project called “Android”<br>I’m looking to collaborate on rover and rocket electronics and design.<br>I’m looking for help with using and programming CNC machines.<br>I’m currently learning PCB design.<br>Ask me about robotics design and programming.<br>Fun fact: I’ve won 5 gold medals in the Latvian Robotics Championship.
 
 
 ## 🌐 Socials:
